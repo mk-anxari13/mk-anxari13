@@ -1,5 +1,7 @@
-## Hi there 👋
+### Hi there, I'm Maryam Khalid Ansari👋
 
+- 🎓 Computer Science Graduate from COMSATS University Islamabad
+- 💗 Have Keen Interests in Mobile Development and Architecture Design
 <!--
 **mk-anxari13/mk-anxari13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
